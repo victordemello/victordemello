@@ -7,6 +7,7 @@
 <br>
 
 ☕ I'm Victor, a Full Stack Software Engineer.
+
 <br>
 
 ## 🌐 Connect with me
