@@ -5,7 +5,9 @@
 </div>
 
 <br>
-
+> “Seest thou a man diligent in his business? he shall stand before king...”  
+> — Proverbs 22:29 (KJV)
+<br>
 👋 Hi, nice to meet you! I’m Victor. It’s great to have you here — welcome!
 
 💻 I’m a Full Stack Software Engineer focused on Java and Spring Boot on the backend, and Angular with TypeScript on the frontend. I design and build scalable, well-architected systems, turning business problems into solid technical solutions, with strong attention to architecture, code quality, and user experience.
@@ -14,8 +16,6 @@
 
 🏗️ Today, I work on corporate healthcare systems, developing and evolving applications using layered architecture, DDD, Clean Architecture, SOLID principles, Design Patterns, and multi-service integration. I also maintain open-source projects where I explore Hexagonal Architecture, testing strategies, and microservices concepts, deepening my knowledge of software engineering best practices.
 
-> “Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.”  
-> — Proverbs 22:29 (KJV)
 
 <br>
 
