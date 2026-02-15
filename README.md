@@ -14,7 +14,8 @@
 
 🏗️ Today, I work on corporate healthcare systems, developing and evolving applications using layered architecture, DDD, Clean Architecture, SOLID principles, Design Patterns, and multi-service integration. I also maintain open-source projects where I explore Hexagonal Architecture, testing strategies, and microservices concepts, deepening my knowledge of software engineering best practices.
 
-🚀 I believe in continuous learning, collaboration, and building software that is not only functional, but also easy to evolve, maintain, and capable of solving real-world problems.
+> “Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.”  
+> — Proverbs 22:29 (KJV)
 
 <br>
 
