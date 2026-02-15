@@ -19,16 +19,6 @@
 
 🏗️ Today, I work on corporate healthcare systems, developing and evolving applications using layered architecture, DDD, Clean Architecture, SOLID principles, Design Patterns, and multi-service integration. I also maintain open-source projects where I explore Hexagonal Architecture, testing strategies, and microservices concepts, deepening my knowledge of software engineering best practices.
 
-
-<br>
-
-## 🌐 Connect with me
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mellodevictor)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mellodevictorgabriel@gmail.com)
-
 <br>
 
 ## ⚡️ Tech Stack
@@ -47,3 +37,12 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+## 🌐 Connect with me
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mellodevictor)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mellodevictorgabriel@gmail.com)
