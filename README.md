@@ -6,7 +6,7 @@
 
 <br>
 
-> “Seest thou a man diligent in his business? he shall stand before king...”  
+> “Seest thou a man diligent in his business? he shall stand before kings...”  
 > — Proverbs 22:29 (KJV)
 
 <br>
