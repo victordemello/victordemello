@@ -13,11 +13,7 @@
 
 👋 Hi, nice to meet you! I’m Victor. It’s great to have you here — welcome!
 
-💻 I’m a Full Stack Software Engineer focused on Java and Spring Boot on the backend, and Angular with TypeScript on the frontend. I design and build scalable, well-architected systems, turning business problems into solid technical solutions, with strong attention to architecture, code quality, and user experience.
-
-🎮 I’ve always been curious about technology and games. That interest led me to pursue a technical degree in computer maintenance and support, where I had my first contact with programming — and that’s when I discovered the vast world of software development.
-
-🏗️ Today, I work on corporate healthcare systems, developing and evolving applications using layered architecture, DDD, Clean Architecture, SOLID principles, Design Patterns, and multi-service integration. I also maintain open-source projects where I explore Hexagonal Architecture, testing strategies, and microservices concepts, deepening my knowledge of software engineering best practices.
+💻 I’m a Software Engineer focused on Java and Spring Boot on the backend, and Angular with TypeScript on the frontend. I design and build scalable, well-architected systems, turning business problems into solid technical solutions, with strong attention to architecture, code quality, and user experience.
 
 <br>
 
